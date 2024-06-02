@@ -1,0 +1,28 @@
+
+
+h1{
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.error-message, .message{
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.error-message{
+    display: none;
+    color: red;
+}
+
+.message{
+    display: none;
+    color: green;
+}
+
+button{
+    padding: 16px;
+    background-color: rgb(31, 132, 31);
+    border: none;
+    border-radius: 20px;
+    color: #fff;
+    font-family: "Nunito Sans", sans-serif;
+}
